@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# How Can We Help?
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+"How Can We Help?" adalah hal yang sering lupa kita tanyakan pada diri ini, padahal kita bisa memiliki potensi untuk berbuat. Ini adalah komunitas untuk para pembuat hal-hal yang bisa membantu negara kita, Indonesia.
 
-There are currently two themes built on Poole:
+Mari berdiskusi dan beraksi, demi Indonesia yang lebih baik. Jangan ragu bertanya serta mari lapangkan diri akan kritik dan saran.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Let's Code Together for the Nation!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Tautan
 
-## Setup
+* [Wiki](https://github.com/Code4Nation/code4nation.github.io/wiki)
+* [Komitment](https://trello.com/b/LmSHYfen/komitmen)
+* [Forum](https://code4nation.org)
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/code4nation/code4nation.github.io/issues/new) or [join the forum](http://code4nation.org).
 
 Thanks for reading!
