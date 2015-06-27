@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Code4Nation
-tagline:			 'How Can We Help?'
-description:         'Let\'s Code Together for the Nation!'
+tagline:             'How Can We Help?'
+description:         'Lets Code Together for the Nation!'
 url:                 http://code4nation.org
 baseurl:             ''
 paginate:            5
